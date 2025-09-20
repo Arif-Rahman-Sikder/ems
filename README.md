@@ -1,5 +1,6 @@
 
 
+
 # Employee Management System (EMS)
 
 ## Overview
@@ -34,22 +35,41 @@ The EMS app is designed to streamline task assignment and tracking within an org
 5. **Real-Time Updates:** All dashboards update instantly on any task status change.
 6. **Code Quality:** PropTypes and ESLint are used to ensure code quality and maintainability.
 
+
 ## Getting Started
 1. **Clone the repository:**
-	 ```bash
-	 git clone https://github.com/<your-username>/ems.git
-	 cd ems
-	 ```
+   ```bash
+   git clone https://github.com/Arif-Rahman-Sikder/ems.git
+   cd ems
+   ```
 2. **Install dependencies:**
-	 ```bash
-	 npm install
-	 ```
+   ```bash
+   npm install
+   ```
 3. **Start the development server:**
-	 ```bash
-	 npm run dev
-	 ```
-4. **Open the app:**
-	 Visit `http://localhost:5173` in your browser.
+   ```bash
+   npm run dev
+   ```
+4. **Open the app locally:**
+   Visit `http://localhost:5173` in your browser.
+
+## Live Demo
+
+The app is deployed on Netlify:
+
+[View EMS on Netlify](https://your-ems-app.netlify.app/)
+
+> Replace the above link with your actual Netlify deployment URL if different.
+
+## Git & Contribution
+
+This project uses Git for version control. To contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to your branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
 
 ## Login Credentials
 
@@ -73,6 +93,7 @@ The EMS app is designed to streamline task assignment and tracking within an org
 - **Muntakim**
 	- Email: muntakim@example.com
 	- Password: 123
+
 
 
 ## License
