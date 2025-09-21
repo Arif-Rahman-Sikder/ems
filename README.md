@@ -57,9 +57,9 @@ The EMS app is designed to streamline task assignment and tracking within an org
 
 The app is deployed on Netlify:
 
-[View EMS on Netlify](https://your-ems-app.netlify.app/)
+[View EMS on Netlify]([https://your-ems-app.netlify.app/](https://emsars.netlify.app/))
 
-> Replace the above link with your actual Netlify deployment URL if different.
+
 
 ## Git & Contribution
 
